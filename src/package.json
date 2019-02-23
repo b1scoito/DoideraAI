@@ -1,0 +1,18 @@
+{
+  "name": "DoideraAI",
+  "version": "1.0.0",
+  "description": "Um bot de inteligência artifical.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+	"start-dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "b1scoito",
+  "license": "GPLv3",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "colors": "^1.3.3",
+    "discord.js": "^11.4.2",
+  }
+}

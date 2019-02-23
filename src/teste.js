@@ -1,6 +1,6 @@
 const discordjs = require("discord.js"),
   bot = new discordjs.Client();
-bot.login("NTM5NjkyMzEzODQ5NDk1NTU0.DzGDgA.PO87uZvWgqEC70TRb9I4o1lQq1o");
+bot.login("");
 var usuario;
 var pergunta;
 var resposta;
